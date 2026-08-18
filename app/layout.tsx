@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
+import './dashboard/app.css';
 
 export const metadata: Metadata = {
   title: 'Active Ai — Your AI marketing team, in one place.',
